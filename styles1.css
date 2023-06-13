@@ -1,0 +1,43 @@
+h3 {
+margin: 0;
+    padding: 0 0 20px;
+    font-size:20px;
+     color:#fff;
+    position:absolute;
+    left:20%;
+    top:25%;
+    transform:translate(-10%,-10%);
+   
+}
+
+p {
+margin: 0;
+    padding: 0 0 20px;
+    font-size:18px;
+    color:#fff;
+     position:absolute;
+    left:24.5%;
+    top:30%;
+    transform:translate(-10%,-10%);
+}
+
+
+body
+{
+background-repeat:no-repeat;
+background-size:100% 100%;
+}
+
+a{margin: 0;
+    padding: 0 0 20px;
+    font-size:18px; 
+    
+    position:absolute;
+    left:19.2%;
+    top:37%;
+    transform:translate(-10%,-10%);
+}
+ input[type="submit"]{
+     background: blue;
+     color:white;
+ }
